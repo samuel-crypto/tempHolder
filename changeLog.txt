@@ -1,4 +1,7 @@
-NEW! Version 1.3.3.0 changelog
+NEW! Version 1.3.5.0 changelog
+* Fixed index out of bounds error when backing up
+
+[1.3.3.0] Version 1.3.3.0 changelog
 = Just another test of the system
 
 [1.3.2.0] version 1.3.2.0 changelog
